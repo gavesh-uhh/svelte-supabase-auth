@@ -50,7 +50,6 @@ npm run dev
 - **Sign Up**: Create an account using your email and password.
 - **Login**: Log in with your email and password.
 - **Protected Route**: Access protected pages after logging in.
-- **Logout**: Log out from your account.
 
 ## Supabase Setup
 
